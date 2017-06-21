@@ -9,6 +9,8 @@ namespace Bridge.Datatrans
     {
         public string Form;
 
+        public DatatransParamsOptions Params;
+
         /// <summary>
         /// The callback to invoke when the payment page is opened.
         /// </summary>
